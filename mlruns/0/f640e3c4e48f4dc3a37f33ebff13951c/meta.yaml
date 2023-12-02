@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shailygoyal/Desktop/projects/project2/mlruns/0/f640e3c4e48f4dc3a37f33ebff13951c/artifacts
+end_time: 1701428737918
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f640e3c4e48f4dc3a37f33ebff13951c
+run_name: whimsical-smelt-645
+run_uuid: f640e3c4e48f4dc3a37f33ebff13951c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701428735108
+status: 3
+tags: []
+user_id: shailygoyal

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shailygoyal/Desktop/projects/project2/mlruns/0/9520eb3c2e7c436cb12df2efd3cde730/artifacts
+end_time: 1701480273747
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9520eb3c2e7c436cb12df2efd3cde730
+run_name: capricious-gull-402
+run_uuid: 9520eb3c2e7c436cb12df2efd3cde730
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701480271195
+status: 3
+tags: []
+user_id: shailygoyal
